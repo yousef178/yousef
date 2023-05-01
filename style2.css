@@ -1,0 +1,123 @@
+body {
+  background-color: #e5e5e5;
+}
+.intro {
+  background-color: white;
+  min-height: 100vh;
+}
+
+.intro .text {
+  width: 496px;
+  margin: 25px;
+  padding: 10px;
+}
+
+.intro span {
+  color: orange;
+}
+.intro p {
+  line-height: 1.6;
+  opacity: 50.9%;
+}
+.intro .link a {
+  background-color: #ffb400;
+  text-decoration: none;
+  width: 76px;
+  height: 21px;
+  text-align: center;
+  padding: 16px;
+  margin: 31px;
+  color: black;
+}
+.intro img {
+  margin-left: 461px;
+  width: 260px;
+}
+.image {
+  width: 300px;
+}
+.main-heading {
+  text-align: center;
+}
+.main-heading h2 {
+  font-weight: normal;
+  font-size: 40px;
+  position: relative;
+  margin-bottom: 30px;
+}
+.main-heading p {
+  width: 550px;
+  margin: 0 auto 100px;
+  max-width: 100%;
+  line-height: 2;
+  color: #777;
+}
+.services {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  text-align: center;
+  padding: 10px;
+}
+
+.services .box {
+  text-align: center;
+  width: 280px;
+  padding: 10px;
+  background-color: white;
+  border: 5px solid white;
+}
+.portofiloo {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.portofiloo .box1 {
+  text-align: center;
+  width: 250px;
+  padding: 10px;
+}
+.countainer {
+  display: flex;
+
+  gap: 21px;
+}
+
+.countainer .info {
+  padding: 18px;
+  background-color: white;
+}
+.info .boxx {
+  color: #777;
+}
+.info .boxx input {
+  width: 360px;
+  height: 40px;
+  background-color: #f0f0f6;
+  border: none;
+  border-radius: 6px;
+}
+.info .link2 a {
+  text-decoration: none;
+  background-color: orange;
+  width: 20px;
+  padding: 9px;
+  display: block;
+  width: 159px;
+  text-align: center;
+  margin: 29px 0px 5px 1px;
+  border-radius: 17px;
+  color: black;
+}
+.contect {
+  width: 50%;
+}
+
+.contect .box2 {
+  padding: 11px;
+  margin: 10px;
+  background-color: white;
+}
+.contect .box2 p {
+  color: #767676;
+}
